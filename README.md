@@ -79,3 +79,5 @@ The MySQL database holds all relevant sales transaction data, including:
 - **MySQL**
 - **SQL**
 - **GitHub**
+
+  The files you need for this project are given on "Codebasics": https://codebasics.io/resources/sales-insights-data-analysis-project
